@@ -1,0 +1,27 @@
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+
+# Data (Wir laden keine CSVs hoch, damit der User sie selbst generiert)
+data/*.csv
+data/*.json
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+.streamlit/

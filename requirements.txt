@@ -1,0 +1,19 @@
+# Data Manipulation & Core
+pandas
+numpy
+
+# Time Series & Statistics (Phase 2)
+statsmodels
+
+# Machine Learning / RCA Logic (Phase 3)
+scikit-learn
+
+# Dashboard / Frontend (Phase 4)
+streamlit
+
+# Interactive Visualizations (Besser als Matplotlib für Dashboards!)
+plotly
+
+# Engineering / Quality Assurance
+pytest
+jupyter
